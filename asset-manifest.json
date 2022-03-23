@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NotesForLife/static/css/main.a1666d23.css",
+    "main.js": "/NotesForLife/static/js/main.e8149974.js",
+    "index.html": "/NotesForLife/index.html",
+    "main.a1666d23.css.map": "/NotesForLife/static/css/main.a1666d23.css.map",
+    "main.e8149974.js.map": "/NotesForLife/static/js/main.e8149974.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1666d23.css",
+    "static/js/main.e8149974.js"
+  ]
+}
